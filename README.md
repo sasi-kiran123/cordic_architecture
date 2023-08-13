@@ -4,5 +4,6 @@ CORDIC (Coordinate Rotation DIgital Computer) based algorithms are some of the m
 
 ## Physical Design Layout
 
-[image](https://github.com/sasi-kiran123/cordic_processor/assets/75782906/7973ec3b-2597-493a-ba63-ad14bbb0f7fa)
+![image](https://github.com/sasi-kiran123/cordic_architecture/assets/75782906/46023d6c-ea81-48c1-8c66-9d4199e04c6d)
+
 
